@@ -1,3 +1,6 @@
 [submodule "Event-Bus"]
 	path = Event-Bus
 	url = https://github.com/CaptainLost/Event-Bus.git
+[submodule "Action-System"]
+	path = Action-System
+	url = https://github.com/CaptainLost/Action-System.git
