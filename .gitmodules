@@ -4,3 +4,6 @@
 [submodule "Action-System"]
 	path = Action-System
 	url = https://github.com/CaptainLost/Action-System.git
+[submodule "State-Machine"]
+	path = State-Machine
+	url = https://github.com/CaptainLost/State-Machine
